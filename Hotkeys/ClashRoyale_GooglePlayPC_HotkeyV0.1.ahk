@@ -1,10 +1,18 @@
 ; Clash Royale hotkeys for Google Play Games Beta in PC
 
 /*
-What the code can assist with
-- Instantly pick a card while mouse cursor is away by pressing [1], [2], [3], [4] 
-- Instantly trigger the champion ability when [5] is pressed
-- For the script to work properly even if the game window changes in size and position within your monitor
+Notes:
+- Allows user to instantly pick a card while mouse cursor is away by pressing [1], [2], [3], [4] 
+- Allows user to instantly trigger the champion ability when [5] is pressed
+- Enables the script to work properly regardless of screen or window size
+- Displays which hotkey is pressed to guide user
+- [TESTED] The script is not a bannable asset when run while playing casual game modes (Trophy, Challenges, Events)
+- [TESTED] The script is not a bannable asset when run indefinitely
+- [UNCONFIRMED] The script is not a bannable asset when run while playing competitive Path of Legends (2k+ Medals)
+- [UNCONFIRMED] The hotkey script isn't against Supercell's Terms of Service (1.1), use at your own discretion
+
+Changes:
+0.1 - Changed used hotkey display from cursor position to above the assigned hotkey's position to avoid blocking clicks while placing cards 
 */
 
 #Persistent
