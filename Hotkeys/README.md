@@ -36,5 +36,5 @@ Hotkey Guide
 
 
 P.S.
-The script may be detected by your system as ransomware, the files however does not contain any malicious properties. 
+The script may be detected by your system as ransomware, the files however do not contain any malicious properties. 
 Continue at your own volition, do not continue the setup if not trusted.
